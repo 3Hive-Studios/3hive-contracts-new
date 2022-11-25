@@ -1,8 +1,6 @@
-# 0xmons Smart Contracts
+#  Smart Contracts
 
 ## NOW:
-
-This repository is used as a monorepo for all smart contracts developed by me (0xmons). It previously only housed contracts used for the initial 0xmons NFT ecosystem, which is detailed below.
 
 ## PREVIOUSLY:
 
